@@ -8,5 +8,7 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("真特么不容易啊！！！");
         System.out.println("yes");
+        System.out.println("谁说不是呢");
+
     }
 }
